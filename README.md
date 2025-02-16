@@ -5,4 +5,4 @@ Piggy Bank
 Write a 
 Preview: Docs Loading link description
 C++
- program called currency.cpp that prompts the user for the amount of each foreign currency. Your prompts should look like:
+ program called currency.cpp that prompts the user for the amount of each foreign currency.
